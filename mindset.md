@@ -16,4 +16,4 @@ espíritu emprendedor.
 
 ## Información de contacto:
   [Linkedin](https://www.linkedin.com/in/daniel-enrique-horna-zegarra-a93b85323)
-
+  [Linkedin](https://github.com/danhorz)
