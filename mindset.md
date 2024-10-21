@@ -15,5 +15,5 @@ interesado en nuevos aprendizajes respecto a la carrera de sistemas y
 espíritu emprendedor.
 
 ## Información de contacto:
-  [Linkedin](https://www.linkedin.com/in/daniel-enrique-horna-zegarra-a93b85323)
-  [Linkedin](https://github.com/danhorz)
+ - [Linkedin](https://www.linkedin.com/in/daniel-enrique-horna-zegarra-a93b85323)
+ - [GitHub](https://github.com/danhorz)
