@@ -1,7 +1,7 @@
 # CONTROL DE LECTURA 07
 
 ## ¿Qué es el control de versiones?
-Es el registro de cambios de un archivo o archivos es decir controla los cambios en el código fuente utilizado escenciañmente para trabajar en equipo, ya que este facilita la colaboración, el control de las versiones y ayuda mucho a prevenir los errores cuando diferentes programadores realizan algunas modificaciones simultáneamente.
+Es el registro de cambios de un archivo o archivos es decir controla los cambios en el código fuente utilizado escencialmente para trabajar en equipo, ya que este facilita la colaboración, el control de las versiones y ayuda mucho a prevenir los errores cuando diferentes programadores realizan algunas modificaciones simultáneamente.
 ## ¿Qué es “clone” en Git?
 Clone en git es un comando ``` git clone ``` sirve para importar los archivos de un repositorio de forma publica o privada en cualquier ordenador.
 ## ¿Cuál es el comando para agregar los archivos modificados a la zona de preparación?
