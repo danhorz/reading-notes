@@ -15,3 +15,5 @@ espíritu emprendedor.
  - [GitHub](https://github.com/danhorz)
 ## Mis notas de lectura:
 - [mindset](./mindset.md)
+- [read06](./read06.md)
+  
