@@ -16,4 +16,5 @@ espíritu emprendedor.
 ## Mis notas de lectura:
 - [mindset](./mindset.md)
 - [read06](./read06.md)
+- [read07](./read07.md)
   
