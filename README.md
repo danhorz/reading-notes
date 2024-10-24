@@ -3,6 +3,7 @@
 ![WhatsApp Image 2024-10-20 at 8 44 42 PM](https://github.com/user-attachments/assets/76dd1aec-4c3e-44f1-ae63-6b3a9ee4d397)
 
 
+
 Programador enfocado en el aprendizaje de desarrollo de aplicativos.
 Cuento con experiencia en la elaboración, desarrollo y aplicación de
 programas básicos. Visión estratégica, alto sentido de responsabilidad,
