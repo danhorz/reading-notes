@@ -34,7 +34,7 @@ espíritu emprendedor.
 - [read10](./101/read10.md)
 - [read11](./101/read11.md)
   
-### Notas de lectura del Code 102
+### Notas de lectura del Code 201
 
 - [read01](./201/read01.md)
 - [read02](./201/read02.md)
@@ -52,3 +52,8 @@ espíritu emprendedor.
 - [read14](./201/read14.md)
 - [read15](./201/read15.md)
 - [read16](./201/read16.md)
+
+### Otros
+
+- [mindset](./mindset.md)
+- [prompt-engineering](./prompt-engineering.md)
