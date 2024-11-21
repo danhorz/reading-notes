@@ -2,7 +2,7 @@
 
 ## ¿Cuáles son las ventajas del uso de HTML semántico en comparación con el uso de etiquetas genéricas como <div> y ?
 
-la accesibilidad y el SEO, que estos elementos se identifiquen con el objetivo o la estructura de ese contenido.
+La accesibilidad y el SEO, que estos elementos se identifiquen con el objetivo o la estructura de ese contenido.
 
 ## ¿Qué etiquetas semánticas son esenciales para estructurar correctamente una página web y qué función desempeñan?
 
