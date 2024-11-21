@@ -8,4 +8,12 @@ El navegador va al servidor DNS y encuentra la dirección real del servidor dond
 
 ## ¿Cuáles son las principales ventajas de utilizar un IDE en la nube en comparación con un IDE local?
 
+- Entorno de desarrollo estandarizado
+- Independencia de plataformas
+- Mejor rendimiento.
+
 ## ¿Qué funciones automatizadas comunes se encuentran en la mayoría de los IDE, y por qué son importantes para los desarrolladores?
+
+- editor de código fuente
+- la automatización del proceso de creación
+- el depurador.
